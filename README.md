@@ -8,4 +8,7 @@ Transfer Through Deep Reinforcement Learning* (sensors-4521057).
 `%MDPI:` comments and `\hl{}` highlights are removed, and the photographs are the
 face-anonymized versions.
 
-This repository is a transfer channel, not a release. Delete it once the file has been collected.
+`sensors-4521057.pdf` is the same compiled proof, alongside the zip, for reading without
+downloading the whole archive.
+
+This repository is a transfer channel, not a release. Delete it once the files have been collected.
